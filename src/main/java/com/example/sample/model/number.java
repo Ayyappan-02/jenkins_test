@@ -4,7 +4,7 @@ import jdk.jfr.Enabled;
 
 
 public class number {
-
+//    Addition of 2 numbers
     private long num1;
     private long num2;
     public long getNum1() {
